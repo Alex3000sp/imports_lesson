@@ -1,0 +1,48 @@
+2021-12-30 00:07:39,657 - my_logger - ERROR - Error
+2021-12-30 00:07:39,657 - my_logger - ERROR - None
+NoneType: None
+2021-12-30 00:08:11,480 - my_logger - ERROR - <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2021-12-30 00:08:11,480 - my_logger - ERROR - None
+NoneType: None
+2021-12-30 00:08:32,612 - my_logger - ERROR - <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+NoneType: None
+2021-12-30 00:12:42,681 - my_logger - ERROR - (None, None, None)
+NoneType: None
+2021-12-30 00:16:04,971 - my_logger - ERROR - <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>
+NoneType: None
+2021-12-30 00:16:44,917 - my_logger - ERROR - <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+NoneType: None
+ERROR:root:Error happrnd
+INFO:root:Info message
+ERROR:root:Error happend <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+INFO:root:Info message
+ERROR:root:Error happend (None, None, None)
+INFO:root:Info message
+ERROR:root:Error happend <class 'ValueError'>
+INFO:root:Info message
+ERROR:root:Error happend <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>
+INFO:root:Info message
+root - ERROR - Error happend 
+root - INFO - Info message
+root - ERROR - Error happend 
+root - INFO - Info message
+ERROR:root:Error happend 
+INFO:root:Info message
+ERROR:root:Error happend 
+INFO:root:Info message
+ERROR:root:Error happend 
+INFO:root:Info message
+ERROR:root:Error happend 
+INFO:root:Info message
+ERROR:root:Exeption
+Traceback (most recent call last):
+  File "e:\Курсы Python\PythonLabs\lesson_nine_imports\main\main.py", line 5, in <module>
+    1/0
+ZeroDivisionError: division by zero
+ERROR:root:Error happend 
+INFO:root:Info message
+ERROR:root:Exeption
+Traceback (most recent call last):
+  File "e:\Курсы Python\PythonLabs\lesson_nine_imports\main\main.py", line 5, in <module>
+    1/0
+ZeroDivisionError: division by zero
